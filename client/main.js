@@ -1,1 +1,1 @@
-Meteor.subscribe('posts');
+//Meteor.subscribe('posts'); Move to the  lib/router.js

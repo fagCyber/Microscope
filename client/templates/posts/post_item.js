@@ -3,6 +3,6 @@ Template.postItem.helpers({
 		var a = window.document.createElement('a');
 		a.href = this.url;
 
-		return a.hostname
+		return a.hostname;
 	}
 });
